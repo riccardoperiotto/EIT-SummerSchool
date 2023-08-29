@@ -1,10 +1,9 @@
-# Summer School
-## Project
-Delivered project for the two-week Summer School held in Munich for the master degree in Autonomous System (EIT).
+# Summer School (EIT), Munich 2022
+This repository contains the report and the project developed for the EIT Summer School held at the Technical University of Munich (TUM) in summer 2022.
 
-The use case we were assigned consisted in developing a solution to define an assembly process for a customizable product starting from its type code (a code that uniquely identifies the product and its customized parts).
-In many companies this job is still done using excel files, and the large number of customizable possibilities results in a myriads of combinations, usually difficult to manage. 
-To simplify the process, we designed a Finite State Machine that parses each code and creates a JSON file containing the list of the assembly steps needed. 
-We modeled the state machine using Enterprise Architect, as suggested during the theoretical lectures.
+The title of the Summer School, indicating the main topic covered, was 'IoT Platforms for Industry 4.0'. 
+The experience aimed to work in teams on one of the business cases selected by EIT and the collaborating companies for two weeks.
 
-This repo contains the simple HTML+Javascript+Bootstrap website we developed to interact with the state machine.
+The business case assigned to my team is briefly described in the brochure reported in this repository (see "Brochure.pdf"). The file "Report.pdf" is the report we developed during our work and contains not only a description of the problem analyzed and the proposed solution, but also the business model, the SWOT analysis, and the PESTLE analysis of the product we proposed (i.e. parschnell). 
+
+On the other hand, the Project folder contains the Minimal Viable Product (MVP) developed during the two weeks of Summer School. 
