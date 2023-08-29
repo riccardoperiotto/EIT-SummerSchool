@@ -1,6 +1,6 @@
-# HAWE Hydraulik, Minimal Viable Product (MVP)
+# HAWE Hydraulik, Minimum Viable Product (MVP)
 ## Information
-This folder contains the Minimal Viable Product (MVP) we developed for the business case assigned to our team during the Summer School.
+This folder contains the Minimum Viable Product (MVP) we developed for the business case assigned to our team during the Summer School.
 
 As stated in the brochure, the company's main request was to define a way to list the assembly steps required to build a customizable product starting from a code uniquely identifying specific procedures.
 In many companies similar to the one we worked with, this work is still performed by users using Excel files. The problem with this approach, apart from being subject to error and involving human operators, is that the number of available combinations grows with the number of customization possibilities.
