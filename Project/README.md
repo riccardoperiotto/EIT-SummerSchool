@@ -11,4 +11,4 @@ We modeled the state machine using Enterprise Architect, as suggested during the
 ## Demo
 The MVP consists of a simple HTML+Javascript+Bootstrap website in which the user can add admissible code and obtain the sequence of assembly steps to perform to build it.
 
-A running version of the solution can be found at [link](parschnell.netlify.app).
+A running version of the solution can be found at [link](https://parschnell.netlify.app/).
